@@ -1,0 +1,6 @@
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\bin\Debug\RedisDemo.ServiceModel.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\bin\Debug\RedisDemo.ServiceModel.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\obj\Debug\RedisDemo.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\obj\Debug\RedisDemo.ServiceModel.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisDemo\RedisDemo.ServiceModel\obj\Debug\RedisDemo.ServiceModel.pdb

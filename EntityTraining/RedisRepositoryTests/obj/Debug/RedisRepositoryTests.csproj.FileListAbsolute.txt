@@ -1,0 +1,16 @@
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\RedisRepositoryTests.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\RedisRepositoryTests.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\Ninject.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.abstractions.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.assert.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.core.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\Ninject.xml
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.abstractions.xml
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.assert.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.assert.xml
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.core.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\bin\Debug\xunit.core.xml
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\obj\Debug\RedisRepositoryTests.csprojResolveAssemblyReference.cache
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\obj\Debug\RedisRepositoryTests.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\RedisRepositoryTests\obj\Debug\RedisRepositoryTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\UnityIntegration\bin\Debug\UnityIntegration.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\UnityIntegration\bin\Debug\UnityIntegration.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\UnityIntegration\obj\Debug\UnityIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\UnityIntegration\obj\Debug\UnityIntegration.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2013\Projects\EntityTraining\EntityTraining\UnityIntegration\obj\Debug\UnityIntegration.pdb
